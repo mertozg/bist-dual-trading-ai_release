@@ -1,6 +1,6 @@
 {
-  "version": "0.6.2",
+  "version": "0.6.3",
   "installer_url": "https://raw.githubusercontent.com/mertozg/bist-dual-trading-ai_release/main/setup.exe",
-  "bytes": 2186506,
-  "sha256": "5747502ff8ca2755c9ebe4db78e23c8b355a43c8999093ed0488421fd5074742"
+  "bytes": 2186691,
+  "sha256": "54cde02ebe3f9b8cb226ecdf2e45d7a4ac0d1307f93481a51763c0fa5a306e98"
 }
